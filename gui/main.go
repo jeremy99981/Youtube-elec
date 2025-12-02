@@ -573,7 +573,7 @@ const indexHTML = `<!doctype html>
     <section class="card">
       <header>
         <h1>Youtube Elec Downloader</h1>
-        <p class="description">Téléchargez vos vidéos et extrayez l'audio en un clic, avec une interface moderne et claire.</p>
+        <p class="description">Téléchargements de vidéos ou musiques YouTube sur PC ElectroDepot en un clic.</p>
       </header>
       <div class="form">
         <label for="url">URL YouTube</label>
